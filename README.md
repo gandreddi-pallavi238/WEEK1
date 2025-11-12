@@ -58,7 +58,7 @@ Or simply open this file path directly:
 # 🧑🏻‍💻 Author
  Gandreddi Pallavi 
 📍 Anakapalli, India
-💌 Email: your-email@example.com
+💌 Email: gandreedipallavi@gmail.com
 
 # 🌈 Future Improvements
 Add profile image and introduction section
