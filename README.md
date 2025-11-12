@@ -29,7 +29,9 @@ This is my first web development project showcasing my creativity, skills, and p
 ## 🖼️ Website Preview
 
 **Home Page**
-![Portfolio Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Homepage+Preview)
+<img width="1394" height="652" alt="image" src="https://github.com/user-attachments/assets/25b792e1-4ac2-495a-a7bc-8decf27b6cff" /> 
+<img width="1388" height="570" alt="image" src="https://github.com/user-attachments/assets/25dd54d4-3a9a-4b5e-b990-45978208dbb5" />
+
 
 ---
 
@@ -54,7 +56,7 @@ Or simply open this file path directly:
 👉 http://127.0.0.1:3000/c:/Users/pallavi/Desktop/portfolio_project/index.html
 
 # 🧑🏻‍💻 Author
-Pallavi G.
+ Gandreddi Pallavi 
 📍 Anakapalli, India
 💌 Email: your-email@example.com
 
