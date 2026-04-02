@@ -31,6 +31,8 @@ This is my first web development project showcasing my creativity, skills, and p
 **Home Page**
 <img width="1394" height="652" alt="image" src="https://github.com/user-attachments/assets/25b792e1-4ac2-495a-a7bc-8decf27b6cff" /> 
 <img width="1388" height="570" alt="image" src="https://github.com/user-attachments/assets/25dd54d4-3a9a-4b5e-b990-45978208dbb5" />
+![WhatsApp Image 2026-04-02 at 2 41 44 PM](https://github.com/user-attachments/assets/1101da8c-c02d-430e-aa8f-b6fb3f89a6bb)
+
 
 
 ---
